@@ -1,6 +1,6 @@
 import 'package:dart_mappable/dart_mappable.dart';
 
-part 'post.model.mapper.dart';
+part 'post_model.mapper.dart';
 
 @MappableClass()
 class Post with PostMappable {

@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:posts_app/models/post.model.dart';
+import 'package:posts_app/models/post_model.dart';
 
 class PostRepository {
   final Dio _dio = Dio();
